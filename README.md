@@ -1,4 +1,6 @@
-# 3. Longest Substring Without Repeating Characters (from Leetcode.com)
+My submission for the following challenge on Leetcode.com:
+
+# 3. Longest Substring Without Repeating Characters
 
 Difficulty: `Medium`
 
